@@ -14,6 +14,6 @@ spec:
     spec:
       containers:
         - name: flask-app
-          image: docker.io/paraso1ka/flask-app:0ff0fbe45a1364569179bcfd6158e3c671f3ac65
+          image: docker.io/paraso1ka/flask-app:e210928aee5e491105de7c030ba5dd3b8acb6be0
           ports:
             - containerPort: 5000
